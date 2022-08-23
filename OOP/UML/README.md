@@ -41,6 +41,7 @@ Uçuşların ve pilotların yönetimi için bir sistem tasarlayın.
 * Havaalanlarının benzersiz kimlikleri ve isimleri vardır.
 * Hava yolu şirketlerinin pilotları vardır ve her pilotun bir deneyim seviyesi mevcuttur.
 * Bir uçak tipi, belirli sayıda pilota ihtiyaç duyabilir.
+
 Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.
 
 ## Online Movie
@@ -52,6 +53,7 @@ Online film satan veya kiralayan uygulamanın sistemini tasarlayın.
 * Sadece abone olan kullanıcılar, kredileri ile film kiralayabilir ve kiraladığı filmin kredi bedeli kadar hesabından düşülür.
 * Normal kullanıcılar ve aboneler film satın alabilirler.
 * Eğer film mevcut değil ise talep edilebilir.
+
 Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.
 
 ## Elevator Simulation
