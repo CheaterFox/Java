@@ -100,7 +100,6 @@ public class NewList<T> {
         return this.array;
     }
     public void clear(){
-        Arrays.fill(array, null);
         this.array = (T[])new Object[10];
     }
     public NewList<T> sublist(int start, int finish){
